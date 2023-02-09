@@ -6,7 +6,7 @@ This repo contains the process of Dog Breed Classification
 
 The codebase is developed with Python 3.8.13. Install requirements as follows:
 
-```bash
+```
 pip install -r requirements.txt
 ```
 

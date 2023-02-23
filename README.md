@@ -15,6 +15,7 @@ pip install -r requirements.txt
 1. [Train](#train)
 2. [Evaluate](#evaluate)
 3. [Inference](#inference)
+3. [Checkpoints](#checkpoints)
 
 ## Train
 

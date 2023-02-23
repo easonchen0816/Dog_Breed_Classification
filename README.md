@@ -35,4 +35,9 @@ python validation.py --dataset oxford --data_root /RAID/eason
 python inference.py --image_dir /home/easonchen/TransFG/data/test/362004.jpg --image_name shiba  --dataset oxford --
 out_dir oxford_out --checkpoint /home/easonchen/TransFG/checkpoint/ST_oxford_checkpoint.bin
 ```
+## Checkpoints
 
+| Dataset | Path |
+| :---: | :---: |
+| Stanford Dogs  | /home/easonchen/TransFG/checkpoint/ST_dog_softmax_checkpoint.bin |
+| Oxford IIIT Pet  | /home/easonchen/TransFG/checkpoint/ST_oxford_checkpoint.bin |
